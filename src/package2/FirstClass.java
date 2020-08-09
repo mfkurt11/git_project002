@@ -24,6 +24,8 @@ public class FirstClass {
 		System.out.println("Hello Friends");
 		
 		System.out.println("First commit from kurt branch");
+		
+		System.out.println("Second commit from local kurt");
 
 
 	}
