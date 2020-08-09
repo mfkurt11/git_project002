@@ -8,6 +8,8 @@ public class FirstClass {
 		System.out.println("THis is the first changes from remote master");
 		System.out.println("This is the third commit from local master");
 		System.out.println("This is the second commit from remote master");
+		
+		System.out.println("This is the third commit from remote master");
 
 	}
 
