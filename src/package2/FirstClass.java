@@ -15,6 +15,13 @@ public class FirstClass {
 		
 		System.out.println("This is the third commit from remote master");
 		System.out.println("This is the fifth commit from local master");
+		
+		System.out.println("Hello There");
+		
+		
+		System.out.println("Hello Bro");
+		
+		System.out.println("Hello Friends");
 
 
 	}
